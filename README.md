@@ -1,6 +1,8 @@
 # TIC_TAC_TOE
 How to make a game TIC TAC TOE
 
+This example don't have inteligent for computer always win or tie
+
 
 
 
