@@ -1,7 +1,8 @@
 # TIC_TAC_TOE
 How to make a game TIC TAC TOE
 
-This example don't have inteligent for computer always win or a tie
+This example don't have inteligent for computer always win or a tie<br>
+After finished the game ther're two options for continue game yes(sim) or no(não)
 
 image of game<br>
 <img src="https://github.com/mariliahoshino/TIC_TAC_TOE/blob/main/pictures/velha01.png?raw=true" widht="400" ><br>
